@@ -18,7 +18,7 @@
     header .container-text .text .name{
         font-size: 35px;
     }
-}
+
 
 @media screen and(max-width:500px){
     header .container-text .text .name{
